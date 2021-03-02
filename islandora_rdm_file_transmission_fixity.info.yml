@@ -2,7 +2,7 @@ name: 'Islandora RDM File Transmission Fixity'
 type: module
 description: 'Verifies checksums on uploaded files'
 core: 8.x
-package: 'Islandora RDM'
+package: 'Islandora'
 dependencies:
   - islandora
   - filehash
